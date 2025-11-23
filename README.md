@@ -1,7 +1,7 @@
 # The Script
 
 ## Description
-This project demonstrates the basic Git and GitHub workflow for Assignment 1. It includes a sample R Markdown script and instructions for running it.
+Workshop 6: Grouping, Summarizing and Plotting. It includes a sample R Markdown script and instructions for running it.
 
 ## Features
 - Sample R Markdown file (`script.Rmd`)
